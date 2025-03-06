@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38324919178",
+    "project_id": "sigma-siagamalang",
+    "storage_bucket": "sigma-siagamalang.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38324919178:android:e6303a05e81c4ad8b68673",
+        "android_client_info": {
+          "package_name": "com.example.login2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnUbzkvWpSJKpT8UD6HtUpD35mzrFPNGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
